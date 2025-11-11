@@ -3,6 +3,11 @@
 
 # Projeto 2: Comparação de Performance: Dijkstra Clássico vs Dijkstra com Min-Heap
 
+<p align="center">
+  <img src="./imagem/Capa2.png" alt="Comparação de Tempo Médio de Execução por Tamanho do Grafo"><br>
+</p>
+<p align="center">
+
 ---
 
 ## 1. Objetivo
